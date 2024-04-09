@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManoahUmukoro
-- 👀 I’m interested in content creation
-- 🌱 I’m currently learning how to further my skills in creative content writing
-- 💞️ I’m looking to collaborate on a project with top content creatos
+- 👀 I’m a website Developer
+- 🌱 I’m currently learning how to further my skills in other areas of tech
+- 💞️ I’m looking to collaborate on a project with top developers
 - 📫 manoahumukoro1@gmail.com
 
 <!---
